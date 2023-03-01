@@ -25,7 +25,7 @@ header
 {
     width: 100%;
     font-family: cursive;
-    font-size: 52px;
+    font-size: 50px;
     background: rgb(255,74,28);
     background: linear-gradient(90deg, rgba(255,74,28,1) 0%, rgba(255,255,255,1) 50%, rgba(3,121,19,1) 100%);
     position: fixed;
