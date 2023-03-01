@@ -50,7 +50,7 @@ footer
 {
     display: grid;
     grid-template-columns: repeat(auto-fit,minmax(430px, 1fr));
-    gap: 30px;
+    gap: 60px;
 }
 
 .container .box
@@ -71,7 +71,7 @@ footer
 
 .container .box p
 {
-    font-size: 17px;
+    font-size: 20px;
     line-height: 2;
 }
 
