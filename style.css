@@ -63,6 +63,12 @@ footer
     padding-bottom: 10px;
 }
 
+.container .box h2
+{
+    font-size: 22px;
+    font-family:cursive;
+}
+
 .container .box img
 {
     height: 240px;
@@ -73,7 +79,7 @@ footer
 
 .container .box p
 {
-    font-size: 20px;
+    font-size: 18px;
     line-height: 2;
 }
 
