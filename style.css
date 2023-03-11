@@ -91,13 +91,13 @@ footer
     color: white;
     font-size: 17px;
     border-radius: 8px;
-    padding: 6px 18px;
+    padding: 6px 10px;
 }
 
 .container .box .btn:hover
 {
     letter-spacing: 0.4px;
-    transform: scale(1.05);
+    transform: scale(1.03);
 }
 
 .container .box:hover
