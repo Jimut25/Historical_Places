@@ -51,6 +51,7 @@ footer
     display: grid;
     grid-template-columns: repeat(auto-fit,minmax(430px, 1fr));
     gap: 60px;
+    animation: animate 1s ease-in-out;
 }
 
 .container .box
@@ -75,6 +76,20 @@ footer
     width: 320px;
     border-radius: 20px;
     z-index: 0;
+    animation: animate 0.9s ease-in-out;
+}
+@keyframes animate
+{
+    0%
+    {
+        opacity: 0;
+        transform: scale(.5);
+    }
+    100%
+    {
+        opacity: 1;
+        transform: scale(1);
+    }
 }
 
 .container .box p
